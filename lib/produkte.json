@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza Salami",
+      "beschreibung": "Beispielbeschreibung1",
+      "preis": 4.95
+    },
+    {
+        "id": 2,
+        "name": "Coca Cola",
+        "beschreibung": "Beispielbeschreibung2",
+        "preis": 2.95
+      },
+      {
+        "id": 3,
+        "name": "Pizza Vegetaria",
+        "beschreibung": "Beispielbeschreibung3",
+        "preis": 3.95
+      },
+      {
+        "id": 4,
+        "name": "Döner Kebab",
+        "beschreibung": "Beispielbeschreibung4",
+        "preis": 1.95
+      }
+]
